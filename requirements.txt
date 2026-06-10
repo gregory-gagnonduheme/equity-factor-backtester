@@ -8,3 +8,4 @@ matplotlib
 seaborn
 plotly
 quantstats
+pyarrow==24.0.0
